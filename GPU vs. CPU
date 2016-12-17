@@ -1,0 +1,6 @@
+GPU calculation
+For GTX 1060, the computation power is 3855 (boost 4372) (GFLOPS) (128 bit bus width)
+For an i-7 Haswell E (Core i7 5960X and 5930K) gflops is 384 (64 bit bus width)
+The memory of GPU is GDDR 5, while that for CPU is DDR4/3.
+Therefore, the speed for me to train a CNN on gpu is about 200~ 300 times of that of CPU.
+http://www.nvidia.ca/object/what-is-gpu-computing.html
